@@ -15,6 +15,8 @@
 | [Usual][Usual]    | 2025-02-26 | RWA | [Cantina][Cantina] | [PDF](/usual-2025-02-26.pdf) | 0 | 2 | 2 |
 | [Usual][Usual]    | 2025-03-11 | RWA | [Cantina][Cantina] | [PDF](/usual-2025-03-11.pdf) | 0 | 1 | 1 |
 | [Usual][Usual]    | 2025-03-11 | RWA | [Cantina][Cantina] | [PDF](/usual-2025-03-11-02.pdf) | 0 | 2 | 6 |
+| [Usual][Usual]    | 2025-04-09 | RWA | [Cantina][Cantina] | [PDF](/usual-2025-04-09.pdf) | 0 | 0 | 3 |
+
 <!-- PROTOCOLS -->
 [Aave]: https://defillama.com/protocol/aave
 [Usual]: https://defillama.com/protocol/usual
