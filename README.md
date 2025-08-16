@@ -16,6 +16,9 @@
 | [Usual][Usual]    | 2025-03-11 | RWA | [Cantina][Cantina] | [PDF](/usual-2025-03-11.pdf) | 0 | 1 | 1 |
 | [Usual][Usual]    | 2025-03-11 | RWA | [Cantina][Cantina] | [PDF](/usual-2025-03-11-02.pdf) | 0 | 2 | 6 |
 | [Usual][Usual]    | 2025-04-09 | RWA | [Cantina][Cantina] | [PDF](/usual-2025-04-09.pdf) | 0 | 0 | 3 |
+| [Usual][Usual]    | 2025-06-03 | RWA | [Halborn][Halborn] | [PDF](/usual-2025-06-03.pdf) | 0 | 1 | 0 |
+| [Usual][Usual]    | 2025-06-10 | RWA | [Cantina][Cantina] | [PDF](/usual-2025-06-10-01.pdf) | 0 | 0 | 2 |
+| [Usual][Usual]    | 2025-06-10 | RWA | [Cantina][Cantina] | [PDF](/usual-2025-06-10-02.pdf) | 0 | 0 | 2 |
 
 <!-- PROTOCOLS -->
 [Aave]: https://defillama.com/protocol/aave
@@ -26,3 +29,4 @@
 [PeckShield]: https://peckshield.com/
 [Sherlock]: https://sherlock.xyz/
 [Blackthorn]: https://www.blackthorn.xyz/
+[Halborn]: http://halborn.com/
