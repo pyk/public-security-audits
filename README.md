@@ -8,7 +8,7 @@
 | [Usual][Usual]    | 2024-08-13 | RWA | [Cantina][Cantina] | [PDF](/usual-2024-08-13.pdf) | 0 | 0 | 3 |
 | [Usual][Usual]    | 2024-11-10 | RWA | [Sherlock][Sherlock] | [PDF](/usual-2024-11-10.pdf) | 0 | 2 | 0 |
 | [Usual][Usual]    | 2024-11-24 | RWA | [Cantina][Cantina] | [PDF](/usual-2024-11-24-phase1.pdf) (Phase 1) | 0 | 0 | 1 |
-| [Usual][Usual]    | 2024-11-24 | RWA | [Cantina][Cantina] | [PDF](/usual-2024-11-24-phase1.pdf) (Phase 2) | 0 | 1 | 5 |
+| [Usual][Usual]    | 2024-11-24 | RWA | [Cantina][Cantina] | [PDF](/usual-2024-11-24-phase2.pdf) (Phase 2) | 0 | 1 | 5 |
 
 <!-- PROTOCOLS -->
 [Aave]: https://defillama.com/protocol/aave
