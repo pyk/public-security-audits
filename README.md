@@ -12,6 +12,7 @@
 | [Usual][Usual]    | 2024-12-11 | RWA | [Blackthorn][Blackthorn] | [PDF](/usual-2024-12-11.pdf) | 0 | 0 | 1 |
 | [Usual][Usual]    | 2025-01-31 | RWA | [Cantina][Cantina] | [PDF](/usual-2025-01-31.pdf) | 0 | 0 | 1 |
 | [Usual][Usual]    | 2025-02-12 | RWA | [Sherlock][Sherlock] | [PDF](/usual-2025-02-12.pdf) | 0 | 0 | 1 |
+| [Usual][Usual]    | 2025-02-26 | RWA | [Cantina][Cantina] | [PDF](/usual-2025-02-26.pdf) | 0 | 2 | 2 |
 | [Usual][Usual]    | 2025-03-11 | RWA | [Cantina][Cantina] | [PDF](/usual-2025-03-11.pdf) | 0 | 1 | 1 |
 
 <!-- PROTOCOLS -->
