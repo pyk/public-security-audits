@@ -1,8 +1,8 @@
 # Public Security Audits
 
-| Protocol | Date | Title | Category | Auditor | Report | High | Medium |
-|:-------  | :--- | :---- | :------- | :------ | :----- | ----: | ------: |
-| [Usual][Usual]    | 2024-06-10 | Usual Pegasus | RWA | [Cantina][Cantina] | [PDF](/usual-2024-06-10.pdf) | 0 | 5 |
+| Protocol | Date | Category | Auditor | Report | High | Medium |
+|:-------  | :--- | :------- | :------ | :----- | ----: | ------: |
+| [Usual][Usual]    | 2024-06-10 | RWA | [Cantina][Cantina] | [PDF](/usual-2024-06-10.pdf) | 0 | 5 |
 
 
 <!-- PROTOCOLS -->
