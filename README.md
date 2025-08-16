@@ -9,6 +9,7 @@
 | [Usual][Usual]    | 2024-11-10 | RWA | [Sherlock][Sherlock] | [PDF](/usual-2024-11-10.pdf) | 0 | 2 | 0 |
 | [Usual][Usual]    | 2024-11-24 | RWA | [Cantina][Cantina] | [PDF](/usual-2024-11-24-phase1.pdf) (Phase 1) | 0 | 0 | 1 |
 | [Usual][Usual]    | 2024-11-24 | RWA | [Cantina][Cantina] | [PDF](/usual-2024-11-24-phase2.pdf) (Phase 2) | 0 | 1 | 5 |
+| [Usual][Usual]    | 2024-12-11 | RWA | [Blackthorn][Blackthorn] | [PDF](/usual-2024-12-11.pdf) | 0 | 0 | 1 |
 
 <!-- PROTOCOLS -->
 [Aave]: https://defillama.com/protocol/aave
@@ -18,3 +19,4 @@
 [Cantina]: https://cantina.xyz/
 [PeckShield]: https://peckshield.com/
 [Sherlock]: https://sherlock.xyz/
+[Blackthorn]: https://www.blackthorn.xyz/
