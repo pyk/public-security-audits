@@ -1,15 +1,16 @@
 # Protocols
 
-| Protocol         | Primitives |
-| :--------------- | :--------- |
-| [Aave][Aave]     |            |
-| [Ethena][Ethena] |            |
-| [Hydrex][Hydrex] | Governance |
-| [Neutrl][Neutrl] |            |
-| [Resolv][Resolv] |            |
-| [Solv][Solv]     |            |
-| [USDX][USDX]     |            |
-| [Usual][Usual]   |            |
+| Protocol              | Primitives             | Integrations |
+| :-------------------- | :--------------------- | :----------- |
+| [Aave][Aave]          |                        |              |
+| [Ethena][Ethena]      |                        |              |
+| [Highway](./highway/) |                        | Aerodrome V3 |
+| [Hydrex][Hydrex]      | Voting Escrow, Options |              |
+| [Neutrl][Neutrl]      |                        |              |
+| [Resolv][Resolv]      |                        |              |
+| [Solv][Solv]          |                        |              |
+| [USDX][USDX]          |                        |              |
+| [Usual][Usual]        |                        |              |
 
 <!-- PROTOCOLS -->
 
