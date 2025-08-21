@@ -1,14 +1,15 @@
 # Protocols
 
-| Category      | Protocol         |
-| :------------ | :--------------- |
-| Basis Trading | [Ethena][Ethena] |
-| Basis Trading | [Neutrl][Neutrl] |
-| Basis Trading | [Resolv][Resolv] |
-| Basis Trading | [Solv][Solv]     |
-| Basis Trading | [USDX][USDX]     |
-| Lending       | [Aave][Aave]     |
-| RWA           | [Usual][Usual]   |
+| Protocol         | Primitives |
+| :--------------- | :--------- |
+| [Aave][Aave]     |            |
+| [Ethena][Ethena] |            |
+| [Hydrex][Hydrex] | Governance |
+| [Neutrl][Neutrl] |            |
+| [Resolv][Resolv] |            |
+| [Solv][Solv]     |            |
+| [USDX][USDX]     |            |
+| [Usual][Usual]   |            |
 
 <!-- PROTOCOLS -->
 
@@ -19,6 +20,7 @@
 [Resolv]: https://defillama.com/protocol/resolv
 [USDX]: https://defillama.com/protocol/stables-labs-usdx
 [Solv]: https://defillama.com/protocol/solv-basis-trading
+[Hydrex]: https://www.hydrex.fi/
 
 <!-- AUDITORS -->
 
