@@ -2,12 +2,12 @@
 
 | Category      | Protocol         |
 | :------------ | :--------------- |
-| Lending       | [Aave][Aave]     |
 | Basis Trading | [Ethena][Ethena] |
 | Basis Trading | [Neutrl][Neutrl] |
 | Basis Trading | [Resolv][Resolv] |
-| Basis Trading | [USDX][USDX]     |
 | Basis Trading | [Solv][Solv]     |
+| Basis Trading | [USDX][USDX]     |
+| Lending       | [Aave][Aave]     |
 | RWA           | [Usual][Usual]   |
 
 <!-- PROTOCOLS -->
