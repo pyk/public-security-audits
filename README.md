@@ -1,17 +1,11 @@
-# Protocols
+# Primitives
 
-| Protocol              | Primitives                     | Integrations |
-| :-------------------- | :----------------------------- | :----------- |
-| [Aave][Aave]          |                                |              |
-| [Ethena][Ethena]      |                                |              |
-| [Highway](./highway/) |                                | Aerodrome V3 |
-| [Hydrex][Hydrex]      | Voting Escrow, Options         |              |
-| [Neutrl][Neutrl]      |                                |              |
-| [Resolv][Resolv]      |                                |              |
-| [Solv][Solv]          |                                |              |
-| [USDX][USDX]          |                                |              |
-| [Usual][Usual]        |                                |              |
-| [Seamless][Seamless]  | Leverage Token, Fee Management |              |
+
+- Fee Management: [Seamless](./seamless/)
+- Options: [Hydrex](./hydrex/)
+- Voting Escrow: [Hydrex](./hydrex/)
+
+
 
 <!-- PROTOCOLS -->
 
