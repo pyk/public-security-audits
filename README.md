@@ -1,16 +1,17 @@
 # Protocols
 
-| Protocol              | Primitives             | Integrations |
-| :-------------------- | :--------------------- | :----------- |
-| [Aave][Aave]          |                        |              |
-| [Ethena][Ethena]      |                        |              |
-| [Highway](./highway/) |                        | Aerodrome V3 |
-| [Hydrex][Hydrex]      | Voting Escrow, Options |              |
-| [Neutrl][Neutrl]      |                        |              |
-| [Resolv][Resolv]      |                        |              |
-| [Solv][Solv]          |                        |              |
-| [USDX][USDX]          |                        |              |
-| [Usual][Usual]        |                        |              |
+| Protocol              | Primitives                     | Integrations |
+| :-------------------- | :----------------------------- | :----------- |
+| [Aave][Aave]          |                                |              |
+| [Ethena][Ethena]      |                                |              |
+| [Highway](./highway/) |                                | Aerodrome V3 |
+| [Hydrex][Hydrex]      | Voting Escrow, Options         |              |
+| [Neutrl][Neutrl]      |                                |              |
+| [Resolv][Resolv]      |                                |              |
+| [Solv][Solv]          |                                |              |
+| [USDX][USDX]          |                                |              |
+| [Usual][Usual]        |                                |              |
+| [Seamless][Seamless]  | Leverage Token, Fee Management |              |
 
 <!-- PROTOCOLS -->
 
@@ -22,6 +23,7 @@
 [USDX]: https://defillama.com/protocol/stables-labs-usdx
 [Solv]: https://defillama.com/protocol/solv-basis-trading
 [Hydrex]: https://www.hydrex.fi/
+[Seamless]: ./seamless/
 
 <!-- AUDITORS -->
 
